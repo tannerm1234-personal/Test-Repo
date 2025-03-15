@@ -14,7 +14,7 @@ interface HeroSectionProps {
 const HeroSection = ({
   title = "Turn Ops Chaos Into Momentum!",
   subtitle = "Convert Your Ops into a Revenue DRIVER. Let's Talk How.",
-  ctaText = "Books 15 Min Intro Call",
+  ctaText = "Book 15 Min Intro Call Today",
   ctaLink = "https://calendly.com/morgan-t12/salesopssurgeintro",
   backgroundClass = "bg-slate-900",
 }: HeroSectionProps) => {
